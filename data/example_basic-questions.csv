@@ -1,0 +1,12 @@
+﻿short.name,type,knowledge.type,question,response
+audience.size,size,,How many people?,20
+audience.size.estimator,estimator,,Exact hand count? Estimated hand count? Registration numbers?,Exact
+overall.estimator,estimator,,Exact hand count? Estimated hand count? Registration numbers?,Exact
+never.used.rstudio,neg size,rstudio,How many have never used RStudio?,2
+used.ggplot2,size,package,How many have used ggplot2?,10
+used.leaflet,size,package,How many have used leaflet?,4
+used.plotly,size,package,How many have used plotly?,6
+know.those.are.htmlwidgets,size,rstudio,How many know leaflet and plotly are htmlwidgets?,1
+confident.about.pipes,size,r language,How many are confident about %>% ?,5
+used.rmarkdown,size,rstudio,How many have ever used RMarkdown?,3
+used.shiny,size,rstudio,How many have used Shiny before?,1

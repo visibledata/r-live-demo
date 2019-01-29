@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1548777947873.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1650764831",
+    "id" : "CEA17310",
+    "lastKnownWriteTime" : 1548780660,
+    "last_content_update" : 1548780660489,
+    "path" : "~/Github/r-live-demo/audience-knowledge.R",
+    "project_path" : "audience-knowledge.R",
+    "properties" : {
+        "cursorPosition" : "19,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
