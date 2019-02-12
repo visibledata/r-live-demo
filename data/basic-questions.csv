@@ -1,7 +1,7 @@
 ﻿short.name,type,knowledge.type,question,response
 audience.size,size,,How many people?,
-audience.size.estimator,estimator,,Exact hand count? Estimated hand count? Registration numbers?,
-overall.estimator,estimator,,Exact hand count? Estimated hand count? Registration numbers?,
+audience.size.estimator,estimator,,Exact hand count? Estimated head count? Registration numbers?,
+overall.estimator,estimator,,Exact hand count? Estimated head count? Registration numbers?,
 never.used.rstudio,neg size,rstudio,How many have never used RStudio?,
 used.ggplot2,size,package,How many have used ggplot2?,
 used.leaflet,size,package,How many have used leaflet?,
@@ -10,3 +10,5 @@ know.those.are.htmlwidgets,size,rstudio,How many know leaflet and plotly are htm
 confident.about.pipes,size,r language,How many are confident about %>% ?,
 used.rmarkdown,size,rstudio,How many have ever used RMarkdown?,
 used.shiny,size,rstudio,How many have used Shiny before?,
+interested.in.gis,size,knowledge domain,How many are interested in GIS?,
+interested.in.graph,size,knowledge domain,How many are interested in networks/graph?,

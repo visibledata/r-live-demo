@@ -10,3 +10,5 @@ know.those.are.htmlwidgets,size,rstudio,How many know leaflet and plotly are htm
 confident.about.pipes,size,r language,How many are confident about %>% ?,5
 used.rmarkdown,size,rstudio,How many have ever used RMarkdown?,3
 used.shiny,size,rstudio,How many have used Shiny before?,1
+interested.in.gis,size,knowledge domain,How many are interested in GIS?,
+interested.in.graph,size,knowledge domain,How many are interested in networks/graph?,

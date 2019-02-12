@@ -1,6 +1,6 @@
 library("tidyverse")
 
-basic_questions <- read_csv("data/example_basic-questions.csv")
+basic_questions <- read_csv("data/basic-questions.csv")
 
 audience_size <- basic_questions %>%
   filter(short.name == "audience.size") %>%
