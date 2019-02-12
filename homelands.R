@@ -13,4 +13,7 @@ countries_sf <- countries110 %>%
   st_as_sf()
 
 countries_sf %>%
-  right_join(audience_homelands)
+  right_join(audience_homelands) %>%
+  leaflet() %>%
+  addProviderTiles(providers$Esri.OceanBasemap) %>%
+  addPolygons(popup = ~name)

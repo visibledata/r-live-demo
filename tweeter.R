@@ -37,10 +37,7 @@ nodes <- nodes %>%
   mutate(id = user_id,
          label = screen_name,
          title = screen_name) %>%
-  select(id, everything()) %>%
-  mutate(color = if_else(user_id %in% new_followers,
-                         "red",
-                         "#97C2FC"))
+  select(id, everything())
 
 visNetwork(nodes, edges) %>%
   visIgraphLayout

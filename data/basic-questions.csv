@@ -1,14 +1,14 @@
 ﻿short.name,type,knowledge.type,question,response
-audience.size,size,,How many people?,
-audience.size.estimator,estimator,,Exact hand count? Estimated head count? Registration numbers?,
-overall.estimator,estimator,,Exact hand count? Estimated head count? Registration numbers?,
-never.used.rstudio,neg size,rstudio,How many have never used RStudio?,
-used.ggplot2,size,package,How many have used ggplot2?,
-used.leaflet,size,package,How many have used leaflet?,
-used.plotly,size,package,How many have used plotly?,
-know.those.are.htmlwidgets,size,rstudio,How many know leaflet and plotly are htmlwidgets?,
-confident.about.pipes,size,r language,How many are confident about %>% ?,
-used.rmarkdown,size,rstudio,How many have ever used RMarkdown?,
-used.shiny,size,rstudio,How many have used Shiny before?,
-interested.in.gis,size,knowledge domain,How many are interested in GIS?,
-interested.in.graph,size,knowledge domain,How many are interested in networks/graph?,
+audience.size,size,,How many people?,38
+audience.size.estimator,estimator,,Exact hand count? Estimated head count? Registration numbers?,Estimated head count
+overall.estimator,estimator,,Exact hand count? Estimated head count? Registration numbers?,Estimated head count
+never.used.rstudio,neg size,rstudio,How many have never used RStudio?,7
+used.ggplot2,size,package,How many have used ggplot2?,35
+used.leaflet,size,package,How many have used leaflet?,5
+used.plotly,size,package,How many have used plotly?,12
+know.those.are.htmlwidgets,size,rstudio,How many know leaflet and plotly are htmlwidgets?,4
+confident.about.pipes,size,r language,How many are confident about %>% ?,18
+used.rmarkdown,size,rstudio,How many have ever used RMarkdown?,25
+used.shiny,size,rstudio,How many have used Shiny before?,14
+interested.in.gis,size,knowledge domain,How many are interested in GIS?,10
+interested.in.graph,size,knowledge domain,How many are interested in networks/graph?,10
